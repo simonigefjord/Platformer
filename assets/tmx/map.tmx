@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="16" height="12" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="sheet" tilewidth="16" tileheight="16" tilecount="136" columns="17">
+  <image source="../textures/sheet.png" width="272" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzVzLcRwlAURUHhc3wDgGgA1wCuASRoANcArnY2+BEJXwEBZ2ajN/clyW+rUKVGnUbBfZsOXXr0KVGO3A8YMiJlTJNW5H7ClBlzFh/3b3+WrFizYRvEtiMjZ88hiO3IiTMXrkFsN+48ePIqsP2H3ql9C2Q=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxLYmBgSALiQiBOZsAOEpHUJOHBuPQXAXExEPsjqS1AY/sBcQlUfQAQB0JxEBZzkHESml5k9+JzEwwUo+lF9y8h/dgAKfYjA5i/E8jUj2wvJfqR45lU/cjxSoz+OApxPoUYAKsTKmk=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFuEAahfq5gZgHiHnJ1C8DxLJALEcH/aVE6C9Dk0+F0jB/EsLI4QDTA7NHEmoXPozsD5jbkNn4sCQW/SAxAGiwBl8=
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="16" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFhEAwBXp9KLQ7doD15+EQV6TQ3MECAHt6Aek=
+  </data>
+ </layer>
+</map>
